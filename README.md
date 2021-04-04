@@ -4,3 +4,8 @@
 
 For this analysis I use only a single dataset from the CDC that has detailed mortality information that is categorized.
 
+![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/PBIRprtCvdTotal.jpg)
+
+![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/PBIRprtCvd2029.jpg)
+
+![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/PBIRprtCvd7079.jpg)
